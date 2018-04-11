@@ -1,6 +1,6 @@
 zajêcia z GIT
 
 test konfliktu
-pierwszy commit
+drugi commit
 
 Adam Lewczuk
