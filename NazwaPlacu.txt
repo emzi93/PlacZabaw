@@ -1,0 +1,6 @@
+zajêcia z GIT
+
+test konfliktu
+pierwszy commit
+
+Adam Lewczuk
